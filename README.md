@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0162-find-peak-element](https://github.com/varunthati/DAA/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/varunthati/DAA/tree/master/0179-largest-number) |
 ## Greedy
 |  |
@@ -46,4 +47,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/varunthati/DAA/tree/master/0021-merge-two-sorted-lists) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/varunthati/DAA/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
