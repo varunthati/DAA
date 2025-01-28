@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/varunthati/DAA/tree/master/0051-n-queens) |
 | [0162-find-peak-element](https://github.com/varunthati/DAA/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/varunthati/DAA/tree/master/0179-largest-number) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/varunthati/DAA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/varunthati/DAA/tree/master/0094-binary-tree-inorder-traversal) |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/varunthati/DAA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Binary Tree
 |  |
 | ------- |
@@ -69,4 +71,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0051-n-queens](https://github.com/varunthati/DAA/tree/master/0051-n-queens) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/varunthati/DAA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Union Find
+|  |
+| ------- |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/varunthati/DAA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2764-maximum-number-of-fish-in-a-grid](https://github.com/varunthati/DAA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 <!---LeetCode Topics End-->
