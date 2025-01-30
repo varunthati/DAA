@@ -105,10 +105,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/varunthati/DAA/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/varunthati/DAA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Union Find
 |  |
 | ------- |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/varunthati/DAA/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/varunthati/DAA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
 ## Matrix
 |  |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/varunthati/DAA/tree/master/0014-longest-common-prefix) |
+## Graph
+|  |
+| ------- |
+| [2583-divide-nodes-into-the-maximum-number-of-groups](https://github.com/varunthati/DAA/tree/master/2583-divide-nodes-into-the-maximum-number-of-groups) |
 <!---LeetCode Topics End-->
