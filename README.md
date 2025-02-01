@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/varunthati/DAA/tree/master/0162-find-peak-element) |
 | [0179-largest-number](https://github.com/varunthati/DAA/tree/master/0179-largest-number) |
 | [2764-maximum-number-of-fish-in-a-grid](https://github.com/varunthati/DAA/tree/master/2764-maximum-number-of-fish-in-a-grid) |
+| [3429-special-array-i](https://github.com/varunthati/DAA/tree/master/3429-special-array-i) |
 ## Greedy
 |  |
 | ------- |
