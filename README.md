@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0044-wildcard-matching](https://github.com/varunthati/DAA/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/varunthati/DAA/tree/master/0049-group-anagrams) |
 | [0179-largest-number](https://github.com/varunthati/DAA/tree/master/0179-largest-number) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/varunthati/DAA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Stack
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/varunthati/DAA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/varunthati/DAA/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [2463-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/varunthati/DAA/tree/master/2463-minimum-recolors-to-get-k-consecutive-black-blocks) |
 ## Divide and Conquer
 |  |
 | ------- |
